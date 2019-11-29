@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.email-registration-container {
+  background-color: #eee;
+  padding: 15px;
+
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: auto;
+}
+
+.email-registration-container label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 5px;
+}
+
+.confirmation {
+  color: green;
+}
