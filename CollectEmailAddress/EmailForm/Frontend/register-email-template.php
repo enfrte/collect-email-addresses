@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Email registration form</title>
-  <link rel="stylesheet" href="css/register-email.css">
+  <link rel="stylesheet" href="<?php ?>EmailForm/Frontend/css/register-email.css">
 </head>
 <body>
   <div class="email-registration-container">

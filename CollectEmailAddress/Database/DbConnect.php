@@ -2,10 +2,11 @@
 
 namespace Liana\Database;
 
+use PDO;
+
 /*
 * Mysql database class - only one connection alowed
 */
-
 class DbConnect {
   private $connection;
   private static $_instance;
@@ -47,4 +48,3 @@ class DbConnect {
 }
 
 ?>
-

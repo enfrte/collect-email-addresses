@@ -1,6 +1,6 @@
 <?php
 
-namespace Liana\EmailForm\Backend;
+namespace Liana\EmailForm\Backend; 
 
 /**
  * Validates an email address

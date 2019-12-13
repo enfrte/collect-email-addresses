@@ -2,8 +2,8 @@
 
 namespace Liana\EmailForm\Frontend;
 
-use Liana\EmailForm\Backend\EmailValidator;
 use Liana\EmailForm\Backend\EmailRegister;
+use Liana\EmailForm\Backend\EmailValidator;
 
 // check if the form has been submited
 if (isset($_POST['submit'])) {
