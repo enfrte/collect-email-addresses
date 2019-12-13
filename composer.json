@@ -1,4 +1,6 @@
 {
+  "name": "enfrte/liana-tech-assignment-php-backend",
+  "description": "Assignment for Liana Tech.",
   "autoload": {
     "psr-4": {
       "Liana\\": "CollectEmailAddress"
