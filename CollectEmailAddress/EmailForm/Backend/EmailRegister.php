@@ -3,6 +3,7 @@
 namespace Liana\EmailForm\Backend;
 
 use Liana\Database\DbConnect;
+use PDOException;
 
 class EmailRegister
 {

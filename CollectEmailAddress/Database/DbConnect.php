@@ -3,6 +3,7 @@
 namespace Liana\Database;
 
 use PDO;
+use PDOException;
 
 /*
 * Mysql database class - only one connection alowed
