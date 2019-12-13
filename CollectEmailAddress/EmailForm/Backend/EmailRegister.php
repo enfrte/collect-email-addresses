@@ -1,6 +1,8 @@
 <?php
 
-require_once '../../Database/DbConnect.php';
+namespace Liana\EmailForm\Backend;
+
+use Liana\Database\DbConnect;
 
 class EmailRegister
 {

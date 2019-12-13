@@ -1,7 +1,9 @@
 <?php 
 
-require_once '../Backend/EmailValidator.php';
-require_once '../Backend/EmailRegister.php';
+namespace Liana\EmailForm\Frontend;
+
+use Liana\EmailForm\Backend\EmailValidator;
+use Liana\EmailForm\Backend\EmailRegister;
 
 // check if the form has been submited
 if (isset($_POST['submit'])) {

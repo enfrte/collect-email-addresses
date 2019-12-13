@@ -1,4 +1,7 @@
 <?php
+
+namespace Liana\Database;
+
 /*
 * Mysql database class - only one connection alowed
 */
